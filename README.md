@@ -13,3 +13,5 @@ tsc 02.greet.ts
 node 02.greet.js
 ```
 
+## 3. 类型系统
+
